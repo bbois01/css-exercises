@@ -1,0 +1,19 @@
+.all-p { 
+    background-color: rgb(215, 152, 162);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.blue-div {
+    color: rgb(107, 145, 250);
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+.fourth-element {
+    background-color: rgb(153, 238, 144); 
+    font-size: 24px;
+    font-weight: bold;
+}
